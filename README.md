@@ -1,1 +1,1 @@
-# CIFAR10
+This is a Convolutional Neural Net that works on the CIFAR10 dataset to classify images
